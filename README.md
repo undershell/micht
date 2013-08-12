@@ -1,4 +1,4 @@
 micht
 =====
 
-Arabic Poetry Metre
+Arabic Poetry Metre - برنامج مشط لتقويم الشعر العربي
