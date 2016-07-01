@@ -3,6 +3,8 @@ Misht
 
 Arabic Poetry Metre - برنامج مشط لتقويم الشعر العربي
 
+This is an old project (2012-2013) المشط لا يعمل الآن إلا على بحر المتقارب
+
 <a href="http://blog.nbyl.me/2013/08/%D8%A7%D9%84%D9%85%D9%90%D8%B4%D8%B7-%D9%84%D9%90%D8%AA%D9%82%D9%88%D9%8A%D9%85-%D8%A7%D9%84%D8%B4%D8%B9%D8%B1-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A/">Website</a> | <a href="http://indev.nbyl.me/aroudh/">Demo</a>
 
 <h3 dir="rtl">حول فكرة البرنامج</h3>
