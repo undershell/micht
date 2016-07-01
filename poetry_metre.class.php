@@ -6,7 +6,7 @@
  * @author	B. Nabil
  * @link	http://misht.nbyl.me
  * @version		0.1
- * @date	
+ * @date	2012	
  */
 
 class PoetryMetre {
